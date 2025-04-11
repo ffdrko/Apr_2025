@@ -8,3 +8,4 @@ print(set_1.issubset(set_2))
 
 set_2.clear()
 print(set_2)
+print(set_3)
