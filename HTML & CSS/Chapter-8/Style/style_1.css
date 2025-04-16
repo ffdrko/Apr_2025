@@ -1,0 +1,16 @@
+img{
+  width: 200px;
+  display: block;
+}
+input{
+  display: block;
+}
+.line-1{
+  width: 280px;
+}
+
+.line-2
+,.line-3{
+  color: gray;
+  
+}
