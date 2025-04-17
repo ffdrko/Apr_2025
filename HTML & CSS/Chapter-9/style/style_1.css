@@ -1,0 +1,16 @@
+.div-1{
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+  margin-right: 15px;
+}
+.Search-bar{
+  display: block;
+}
+.pic-1{
+  display: block;
+  width: 300px;
+}
+.video-title{
+  width: 250px;
+}
