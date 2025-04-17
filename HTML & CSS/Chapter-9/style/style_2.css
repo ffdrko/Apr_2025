@@ -1,0 +1,13 @@
+div{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: none;
+}
+
+.circle{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  border-radius: 50%;
+}

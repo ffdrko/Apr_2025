@@ -1,0 +1,18 @@
+div{
+  background-color: black;
+  width: 390px;
+  height: 150px;
+  border: solid;
+}
+p{
+  font-family: Arial;
+  margin-left: 10px;
+}
+.line-1{
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+.line-2{
+  color: gray;
+}
